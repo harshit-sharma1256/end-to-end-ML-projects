@@ -1,0 +1,30 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# Virtual environments (e.g., venv, virtualenv, pyenv)
+venv/
+env/
+myenv/
+.pyenv/
+
+# IDE or editor-specific files
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# Compiled Python files
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# User-specific Python files
+*.swp
+*.swo
