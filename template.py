@@ -1,3 +1,8 @@
+'''
+We can do this all work using "cookiecutter",
+But for learning we will write this code.
+
+'''
 import os
 from pathlib import Path
 import logging
