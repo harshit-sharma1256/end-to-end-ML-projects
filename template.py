@@ -9,7 +9,7 @@ import logging
  
 logging.basicConfig(level=logging.INFO)   # To get the basic loggin info.
 
-project_name = "E2E Project"
+project_name = "E2E_Project"
 
 list_of_files = [
     # ".github/workflows/.gitkeep",      # Will be used at the time of deployment for github actions.
